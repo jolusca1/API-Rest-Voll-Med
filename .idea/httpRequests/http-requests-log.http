@@ -1,0 +1,103 @@
+POST http://localhost:8080/medicos
+Content-Type: application/json
+Content-Length: 416
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+        "id": 6,
+        "nome": "Juliana Queiroz",
+        "email": "juliana.queiroz@voll.med",
+        "crm": "233444",
+        "telefone": "61999998888",
+        "especialidade": "ORTOPEDIA",
+        "endereco": {
+            "logradouro": "rua 1",
+            "bairro": "bairro",
+            "cep": "65058310",
+            "complemento": null,
+            "cidade": "Brasil",
+            "uf": "DF"
+        }
+}
+
+<> 2023-10-05T160414.201.json
+
+###
+
+POST http://localhost:8080/medicos
+Content-Type: application/json
+Content-Length: 410
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+        "id": 6,
+        "nome": "Juliana Queiroz",
+        "email": "juliana.queiroz@voll.med",
+        "crm": "233444",
+        "telefone": "61999998888",
+        "especialidade": "ORTOPEDIA",
+        "endereco": {
+            "logradouro": "rua 1",
+            "bairro": "bairro",
+            "cep": null,
+            "complemento": null,
+            "cidade": "Brasil",
+            "uf": "DF"
+        }
+}
+
+<> 2023-10-05T160344.400.json
+
+###
+
+POST http://localhost:8080/medicos
+Content-Type: application/json
+Content-Length: 410
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+        "id": 6,
+        "nome": "Juliana Queiroz",
+        "email": "juliana.queiroz@voll.med",
+        "crm": "233444",
+        "telefone": "61999998888",
+        "especialidade": "ORTOPEDIA",
+        "endereco": {
+            "logradouro": "rua 1",
+            "bairro": "bairro",
+            "cep": null,
+            "complemento": null,
+            "cidade": "Brasil",
+            "uf": "DF"
+        }
+}
+
+<> 2023-10-05T155900.400.json
+
+###
+
+POST http://localhost:8080/medicos
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-05T154412.400.json
+
+###
+
+GET http://localhost:8080/medicos
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-05T152733.200.json
+
+###
+

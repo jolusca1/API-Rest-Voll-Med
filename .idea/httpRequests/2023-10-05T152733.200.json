@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "nome": "Rodrigo",
+      "email": "rodrigo.ferreira@voll.med",
+      "crm": "123456",
+      "especialidade": "ORTOPEDIA"
+    }
+  ],
+  "pageable": {
+    "pageNumber": 0,
+    "pageSize": 10,
+    "sort": {
+      "empty": false,
+      "sorted": true,
+      "unsorted": false
+    },
+    "offset": 0,
+    "paged": true,
+    "unpaged": false
+  },
+  "last": true,
+  "totalPages": 1,
+  "totalElements": 1,
+  "size": 10,
+  "number": 0,
+  "sort": {
+    "empty": false,
+    "sorted": true,
+    "unsorted": false
+  },
+  "first": true,
+  "numberOfElements": 1,
+  "empty": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "nome": "Juliana Queiroz",
+  "email": "233444",
+  "crm": "juliana.queiroz@voll.med",
+  "telefone": "61999998888",
+  "especialidade": "ORTOPEDIA",
+  "endereco": {
+    "logradouro": "rua 1",
+    "bairro": "bairro",
+    "cep": "65058310",
+    "numero": null,
+    "complemento": null,
+    "cidade": "Brasil",
+    "uf": "DF"
+  }
+}
