@@ -1,0 +1,7 @@
+{
+  "timestamp": "2023-10-06T03:00:05.749+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Unable to find med.voll.api.domain.medico.Medico with id 69999",
+  "path": "/medicos/69999"
+}
